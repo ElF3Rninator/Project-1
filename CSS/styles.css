@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(https://media.istockphoto.com/id/1419117748/photo/old-wall-texture-cement-dirty-gray-with-black-background-abstract-grey-and-silver-color.webp?b=1&s=170667a&w=0&k=20&c=KI-m7WiMl2YDY5nSyAxxsta5ZPwjY1x6WwSCRdZq-VA=);
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;	
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+hr{
+	border: 0px;
+	height: 50px;
+}
